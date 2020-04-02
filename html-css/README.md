@@ -18,5 +18,8 @@
 16. [Special signs, logos and characters](https://dev.w3.org/html5/html-author/charref)
 17. [Lorem generator](https://www.loremipsum.de/)
 18. [15 CSS frameworks](https://www.mockplus.com/blog/post/css-framework)
+19. [Color-picker](https://imagecolorpicker.com/en/)
+ []()
+ []()
  []()
  []()
