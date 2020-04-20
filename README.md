@@ -110,15 +110,20 @@ $ git pull upstream master
 
 ## JavaScript
 
-1. Slides
+1. 
    [JavaScript](https://github.com/hnsreeny/javaScript/blob/master/JavaScript.pdf)
 1. What is JS
    [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-1. JavaScript more great recourses  
+1. JavaScript more great resources  
    [JavaScript](javaScript/README.md)
 
 ## HTML & CSS
 
-1. HTML & CSS more great recourses  
+1. HTML & CSS more great resources  
    [Html-Css](html-css/README.md)
+
+## DOM 
+
+1. DOM more great resources
+   [DOM](DOM/README.md)
