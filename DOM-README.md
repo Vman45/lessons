@@ -9,3 +9,4 @@
 7. [Parent-Node](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode)
 8. [NodeType](https://developer.mozilla.org/en-US/docs/Web/API/Node/nodeType)
 9. [Node-TextContent](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#Differences_from_innerText)
+10. [new Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)
