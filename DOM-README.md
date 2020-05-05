@@ -12,3 +12,4 @@
 10. [new Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)
 11. [creating package.json](https://docs.npmjs.com/creating-a-package-json-file)
 12. [Script Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
+13. [what-are-promises](https://medium.com/@kevinyckim33/what-are-promises-in-javascript-f1a5fc5b34bf)
