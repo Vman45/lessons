@@ -15,3 +15,4 @@
 13. [what-are-promises](https://medium.com/@kevinyckim33/what-are-promises-in-javascript-f1a5fc5b34bf)
 14. [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 15. [Fake-data](https://jsonplaceholder.typicode.com/)
+16. [Any-API](https://any-api.com/)
