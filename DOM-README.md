@@ -17,3 +17,6 @@
 15. [Fake-data](https://jsonplaceholder.typicode.com/)
 16. [Any-API](https://any-api.com/)
 17. [Use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos&feature=share)
+18. [GitHub-search user](https://developer.github.com/v3/search/#search-users)
+19. [repositories for the authenticated user](https://developer.github.com/v3/repos/#list-repositories-for-the-authenticated-user)
+20. [Strict-mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
