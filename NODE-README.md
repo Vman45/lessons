@@ -6,3 +6,4 @@
 4. [axios](https://www.npmjs.com/package/axios)
 5. [url-resolve](https://nodejs.org/api/url.html#url_url_resolve_from_to)
 6. [node-streams](https://jscomplete.com/learn/node-beyond-basics/node-streams#what-exactly-are-streams)
+7. [file-system](https://nodejs.org/docs/latest-v8.x/api/fs.html)
