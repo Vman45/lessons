@@ -8,3 +8,4 @@
 6. [node-streams](https://jscomplete.com/learn/node-beyond-basics/node-streams#what-exactly-are-streams)
 7. [file-system](https://nodejs.org/docs/latest-v8.x/api/fs.html)
 8. [zlib](https://node.readthedocs.io/en/latest/api/zlib/)
+9. [publish-your-own-npm](https://zellwk.com/blog/publish-to-npm/)
