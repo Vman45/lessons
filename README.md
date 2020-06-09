@@ -132,3 +132,8 @@ $ git pull upstream master
 
 1. NODE more great resources
    [NODE](NODE-README.md)
+
+## React
+
+1. React more great resources
+   [REACT](REACT-README.md)
