@@ -136,4 +136,4 @@ $ git pull upstream master
 ## React
 
 1. React more great resources
-   [REACT](REACT-README.md)
+   [REACT](SPA-REACT-README.md)
