@@ -17,7 +17,7 @@ $ npm i react-dom
 $ npm i react-scripts
 $ npm i node-sass --save
 ```
-for sure you need to create ---.gitignore--- and then create folders (src, public)
+for sure you need to create **.gitignore** and then create folders (src, public)
 so your directory should look like
 ```
 Project
@@ -34,7 +34,7 @@ Project
         └───main.scss
    
 ```
-Remember to add the important scripts to your ---package.json---
+Remember to add the important scripts to your __package.json__
 ```
   "scripts": {
     "start": "react-scripts start",
