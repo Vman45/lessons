@@ -45,6 +45,7 @@ Remember to add the important scripts to your __package.json__
   }
 ```
 
-
+-------------------------------------------------------------------------------
+6. [React-Dev-Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 
