@@ -60,6 +60,10 @@ Our slack work space
 
 1. JavaScript more great resources  
    [JavaScript](javaScript/README.md)
+## git
+
+1. git all the great resources  
+   [git](GIT-README.md)
 
 ## HTML & CSS
 
