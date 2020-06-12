@@ -50,8 +50,7 @@ Our slack work space
 
 ## GIT
 
-1. git all the great resources  
-   [git](GIT-README.md)
+1. [git all the great resources](GIT-README.md)
 
 ## JavaScript
 
@@ -60,26 +59,21 @@ Our slack work space
 1. What is JS
    [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-1. JavaScript more great resources  
-   [JavaScript](javaScript/README.md)
+1. [JavaScript more great resources](javaScript/README.md)
 
 
 ## HTML & CSS
 
-1. HTML & CSS more great resources  
-   [Html-Css](html-css/README.md)
+1. [HTML & CSS more great resources](html-css/README.md)
 
 ## DOM 
 
-1. DOM more great resources
-   [DOM](DOM-README.md)
+1. [DOM more great resources](DOM-README.md)
    
 ## NODE
 
-1. NODE more great resources
-   [NODE](NODE-README.md)
+1. [NODE more great resources](NODE-README.md)
 
 ## React
 
-1. React more great resources
-   [REACT](SPA-REACT-README.md)
+1. [React more great resources](SPA-REACT-README.md)
