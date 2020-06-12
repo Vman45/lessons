@@ -1,6 +1,64 @@
 ## Basic Git commands
 
 Here is a list of some basic Git commands to get you going with Git.
+1. Git slides  
+   [Slides ](https://github.com/hnsreeny/git/)
+
+1. Official Documentation  
+   [Git scm Doc](https://git-scm.com/doc)
+
+1. Git Glossary  
+   [Git Glossary](./git/glossary.md)
+
+1. Github Training videos  
+   [Github on Youtube](https://www.youtube.com/watch?v=noZnOSpcjYY&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1)
+
+1. Intro videos  
+   [Git SCM Videos](https://git-scm.com/videos)
+
+1. A cheat sheet for the most common git commands:  
+   [Git Cheat Sheet](./git/git-cheatsheet-EN-grey.pdf)
+
+### git setting
+
+#### SSh Key
+
+[Github](https://help.github.com/en/enterprise/2.15/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+#### New repo
+
+```
+echo "# YOUR-REPO-NAME" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:YOUR-ACCOUNT/YOUR-REPO.git
+git push -u origin master
+
+```
+
+#### upstream
+
+If you have cloned repository from someone and it would update often and you want to get those updates from time to time, then instead of editing origin it would be best to add a new remote:
+
+```
+$ git remote rename origin upstream
+$ git remote add origin https://github.com/YOUR-ACCOUNT/YOUR_REPO
+# or
+git remote add origin git@github.com:YOUR-ACCOUNT/YOUR-REPO.git
+```
+
+Then whenever you want to check if there is changes from upstream, you can do:
+
+```
+$ git fetch upstream
+```
+
+However if you want to pull from the original repo you will use:
+
+```
+$ git pull upstream master
+```
 
 ##### Tell Git who you are
 
