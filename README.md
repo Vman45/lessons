@@ -39,9 +39,6 @@ Our slack work space
 1. Markdown CheatSheet  
    [Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## GIT
-
-
 
 ## The Internet
 
@@ -50,6 +47,11 @@ Our slack work space
 
 1. History of the Internet  
    [Internet Society](https://www.internetsociety.org/internet/history-internet/)
+
+## GIT
+
+1. git all the great resources  
+   [git](GIT-README.md)
 
 ## JavaScript
 
@@ -60,10 +62,7 @@ Our slack work space
 
 1. JavaScript more great resources  
    [JavaScript](javaScript/README.md)
-## git
 
-1. git all the great resources  
-   [git](GIT-README.md)
 
 ## HTML & CSS
 
