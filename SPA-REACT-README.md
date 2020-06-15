@@ -48,4 +48,8 @@ Remember to add the important scripts to your __package.json__
 -------------------------------------------------------------------------------
 6. [React-Dev-Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
+7. [Definitions of Web-related terms](MDN Web Docs Glossary: Definitions of Web-related terms)
 
+8. [React-tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+9. [React-VSCode-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
