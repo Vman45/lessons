@@ -55,3 +55,5 @@ Remember to add the important scripts to your __package.json__
 9. [React-VSCode-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 10. [Styles in React](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/)
+
+11. [React-Project-Template](https://github.com/FBw-26/react-project-temp)
