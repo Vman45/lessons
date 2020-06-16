@@ -53,3 +53,5 @@ Remember to add the important scripts to your __package.json__
 8. [React-tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 9. [React-VSCode-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+10. [Styles in React](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/)
