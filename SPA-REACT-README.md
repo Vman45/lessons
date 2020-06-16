@@ -48,7 +48,7 @@ Remember to add the important scripts to your __package.json__
 -------------------------------------------------------------------------------
 6. [React-Dev-Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
-7. [Definitions of Web-related terms](MDN Web Docs Glossary: Definitions of Web-related terms)
+7. [Definitions of Web-related terms](https://developer.mozilla.org/en-US/docs/Glossary)
 
 8. [React-tutorial](https://reactjs.org/tutorial/tutorial.html)
 
