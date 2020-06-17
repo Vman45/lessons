@@ -57,3 +57,5 @@ Remember to add the important scripts to your __package.json__
 10. [Styles in React](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/)
 
 11. [React-Project-Template](https://github.com/FBw-26/react-project-temp)
+
+12. [5-Binding-patterns](https://www.freecodecamp.org/news/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56/)
