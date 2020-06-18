@@ -59,3 +59,7 @@ Remember to add the important scripts to your __package.json__
 11. [React-Project-Template](https://github.com/FBw-26/react-project-temp)
 
 12. [5-Binding-patterns](https://www.freecodecamp.org/news/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56/)
+
+13. [Regex](https://regex101.com/r/yWrgA9/2/)
+
+14. [Deploy React App - GH pages](https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
