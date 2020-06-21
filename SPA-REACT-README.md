@@ -13,6 +13,10 @@ First step
 ```
 $ npm init
 ```
+or you can use the default initial by using 
+```
+$ npm init -y
+```
 then you need to install some packages 
 ```
 $ npm i react
