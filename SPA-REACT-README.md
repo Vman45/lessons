@@ -69,3 +69,5 @@ Remember to add the important scripts to your __package.json__
 14. [Deploy React App - GH pages](https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
 
 15. [React-Lifecycle](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459)
+
+16. [Font-Awesome with React](https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react)
