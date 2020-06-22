@@ -67,3 +67,5 @@ Remember to add the important scripts to your __package.json__
 13. [Regex](https://regex101.com/r/yWrgA9/2/)
 
 14. [Deploy React App - GH pages](https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
+
+15. [React-Lifecycle](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459)
