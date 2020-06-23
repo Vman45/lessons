@@ -71,3 +71,5 @@ Remember to add the important scripts to your __package.json__
 15. [React-Lifecycle](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459)
 
 16. [Font-Awesome with React](https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react)
+
+17. [Using Axios with React](https://alligator.io/react/axios-react/)
