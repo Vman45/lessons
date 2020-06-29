@@ -75,3 +75,5 @@ Remember to add the important scripts to your __package.json__
 17. [Using Axios with React](https://alligator.io/react/axios-react/)
 
 18. [Paypal-Developer](https://developer.paypal.com/docs/checkout/)
+
+19. [React-Router](https://css-tricks.com/learning-react-router/)
