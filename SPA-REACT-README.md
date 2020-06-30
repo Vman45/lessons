@@ -77,3 +77,5 @@ Remember to add the important scripts to your __package.json__
 18. [Paypal-Developer](https://developer.paypal.com/docs/checkout/)
 
 19. [React-Router](https://css-tricks.com/learning-react-router/)
+
+20. [Redux-DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
