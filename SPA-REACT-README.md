@@ -81,3 +81,9 @@ Remember to add the important scripts to your __package.json__
 20. [Redux-DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
 21. [Redux-Tutorial](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+
+22. [Redux-getting started](https://redux.js.org/introduction/getting-started)
+
+23. [Redux-simple explanation](https://dev.to/hemanth/explain-redux-like-im-five)
+
+24.[Redux-examples](https://redux.js.org/introduction/examples)
