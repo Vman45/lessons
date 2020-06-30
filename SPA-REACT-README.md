@@ -79,3 +79,5 @@ Remember to add the important scripts to your __package.json__
 19. [React-Router](https://css-tricks.com/learning-react-router/)
 
 20. [Redux-DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
+21. [Redux-Tutorial](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
