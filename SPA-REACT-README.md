@@ -86,4 +86,6 @@ Remember to add the important scripts to your __package.json__
 
 23. [Redux-like I'm five](https://dev.to/hemanth/explain-redux-like-im-five)
 
-24.[Redux-examples](https://redux.js.org/introduction/examples)
+24. [Redux-examples](https://redux.js.org/introduction/examples)
+
+25. [Connect Redux](https://react-redux.js.org/api/connect)
