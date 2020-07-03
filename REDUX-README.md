@@ -82,6 +82,7 @@ in any component you need to access the store
 first import
 ```
 import { connect } from "react-redux";
+import { // any action you want to dispatch in this component  } from "../actions";
 
 ```
 then send the state and the action the this component through props using this functions
