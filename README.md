@@ -77,3 +77,8 @@ Our slack work space
 ## React
 
 1. [React more great resources](SPA-REACT-README.md)
+
+## Redux
+
+1. [Redux more great resources](REDUX-README.md)
+
