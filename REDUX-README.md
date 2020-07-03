@@ -31,7 +31,7 @@ const yourAction = (str) => {
 };
 
 ```
-1. Second step Reducers  
+2. Second step Reducers  
 
 in src you will create Directory reducers and inside of it index.js
 
@@ -50,7 +50,7 @@ const allReducers = (state, action) => {
 
 export default allReducers;
 ```
-1. Third step creating the store 
+3. Third step creating the store 
 
 in src directory in index.js you should add 
 ```
@@ -75,7 +75,7 @@ ReactDOM.render(
 
 
 ```
-1. the last step connect  
+4. the last step connect  
 
 in any component you need to access the store  
 
