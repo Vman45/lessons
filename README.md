@@ -50,12 +50,12 @@ Our slack work space
 
 ## GIT
 
-1. [git all the great resources](GIT-README.md)
+ [git all the great resources](GIT-README.md)
 
 ## JavaScript
 
-1. 
-   [JavaScript](https://github.com/hnsreeny/javaScript/blob/master/JavaScript.pdf)
+1. [JavaScript](https://github.com/hnsreeny/javaScript/blob/master/JavaScript.pdf)
+
 1. What is JS
    [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
@@ -64,21 +64,21 @@ Our slack work space
 
 ## HTML & CSS
 
-1. [HTML & CSS more great resources](html-css/README.md)
+ [HTML & CSS more great resources](html-css/README.md)
 
 ## DOM 
 
-1. [DOM more great resources](DOM-README.md)
+ [DOM more great resources](DOM-README.md)
    
 ## NODE
 
-1. [NODE more great resources](NODE-README.md)
+ [NODE more great resources](NODE-README.md)
 
 ## React
 
-1. [React more great resources](SPA-REACT-README.md)
+ [React more great resources](SPA-REACT-README.md)
 
 ## Redux
 
-1. [Redux more great resources](REDUX-README.md)
+ [Redux more great resources](REDUX-README.md)
 
