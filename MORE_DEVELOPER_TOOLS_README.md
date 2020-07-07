@@ -1,6 +1,6 @@
 # Tools to be better developer
 
-## APIs:
+## APIs
 
 1. [Spotify](https://developer.spotify.com/documentation/web-api/)
 1. Turn text or speech into actions[Wit](https://wit.ai/)
@@ -24,7 +24,6 @@
 1. [Webpack](https://www.npmjs.com/package/webpack)
 1. []()
 
---------------------------------------------------------------------------------
 ## Build native app
 where you can write one cone and run it across all the platforms (ios, android )
 
@@ -72,6 +71,7 @@ where you can write one cone and run it across all the platforms (ios, android )
 1. [AWS aka Amazon Web Services ](https://aws.amazon.com/developer/)
 1. [Apple developers](https://developer.apple.com/)
 1. [Facebook developers](https://developers.facebook.com/)
+--------------------------------------------------------------------------------
 
 ## GitHub Gist
 learn, share, and work together 
