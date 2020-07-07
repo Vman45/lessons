@@ -44,7 +44,7 @@ where you can write one cone and run it across all the platforms (ios, android )
 
 [Gatsby js](https://www.gatsbyjs.org/)
 
-## Filler any API response 
+## Filter any API response 
 
 [Graph Ql](https://graphql.org/)
 
