@@ -13,7 +13,6 @@
 
 ## npm packages
 
-1. Make http calls [Request](https://www.npmjs.com/package/request)
 1. Bring require to the browser [Browserify](https://www.npmjs.com/package/browserify)
 1. [Colors](https://www.npmjs.com/package/colors)
 1. [Chalk](https://www.npmjs.com/package/chalk)
