@@ -12,7 +12,7 @@
 1. [Face API npm pachage](https://www.npmjs.com/package/face-api.js)
 1. []()
 
-## nom packages
+## npm packages
 
 1. Make http calls [Request](https://www.npmjs.com/package/request)
 1. Bring require to the browser [Browserify](https://www.npmjs.com/package/browserify)
