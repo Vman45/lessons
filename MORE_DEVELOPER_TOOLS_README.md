@@ -3,8 +3,8 @@
 ## APIs
 
 1. [Spotify](https://developer.spotify.com/documentation/web-api/)
-1. Turn text or speech into actions[Wit](https://wit.ai/)
-1. Song lyrics[Genius](https://genius.com/developers)
+1. Turn text or speech into actions [Wit](https://wit.ai/)
+1. Song lyrics [Genius](https://genius.com/developers)
 1. Recipes [Recipe puppy](http://www.recipepuppy.com/about/api/)
 1. [Sky scanner](https://rapidapi.com/skyscanner/api/skyscanner-flight-search)
 1. Visual Recognition [Rakuten API search](https://english.api.rakuten.net/category/Visual%20Recognition)
@@ -14,8 +14,8 @@
 
 ## nom packages
 
-1. Make http calls[Request](https://www.npmjs.com/package/request)
-1. Bring require to the browser[Browserify](https://www.npmjs.com/package/browserify)
+1. Make http calls [Request](https://www.npmjs.com/package/request)
+1. Bring require to the browser [Browserify](https://www.npmjs.com/package/browserify)
 1. [Colors](https://www.npmjs.com/package/colors)
 1. [Chalk](https://www.npmjs.com/package/chalk)
 1. [Typescript](https://www.npmjs.com/package/typescript)
