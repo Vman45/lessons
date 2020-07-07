@@ -93,3 +93,5 @@ Remember to add the important scripts to your __package.json__
 26. [Spread-operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
 27. [React snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) 
+
+28. [basics of React Hooks](https://www.freecodecamp.org/news/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d/)
