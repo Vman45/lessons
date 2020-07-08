@@ -82,3 +82,7 @@ Our slack work space
 
  [Redux more great resources](REDUX-README.md)
 
+## More tools
+
+ [More tools](MORE_DEVELOPER_TOOLS_README.md)
+
