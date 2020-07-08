@@ -23,7 +23,7 @@
 1. []()
 
 ## Build native app
-where you can write one cone and run it across all the platforms (ios, android )
+where you can write one code and run it across all the platforms (ios, android )
 
 [React Native ](https://reactnative.dev/)
 
