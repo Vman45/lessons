@@ -65,7 +65,7 @@ where you can write one code and run it across all the platforms (ios, android )
 
 ## Big companies 
 
-1. [Google developers] (https://developers.google.com/)
+1. [Google developers](https://developers.google.com/)
 1. [AWS aka Amazon Web Services ](https://aws.amazon.com/developer/)
 1. [Apple developers](https://developer.apple.com/)
 1. [Facebook developers](https://developers.facebook.com/)
