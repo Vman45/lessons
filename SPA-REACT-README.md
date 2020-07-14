@@ -34,10 +34,10 @@ Project
 └───public
 │   └───index.html
 └───src
-│   │   index.js
-│   └───js
-│   |   └───App.js
-│   └───scss
+    │   index.js
+    └───js
+    |   └───App.js
+    └───scss
         └───main.scss
    
 ```
