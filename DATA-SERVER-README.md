@@ -5,3 +5,4 @@
 3. [Installing Express](https://expressjs.com/en/starter/installing.html)
 4. [Express JS Crash Course](https://youtu.be/L72fhGm1tfE)
 5. [HTTP Server with Express - Programming with Text](https://youtu.be/6oiabY1xpBo)
+6. [lowdb - npm](https://www.npmjs.com/package/lowdb/v/0.15.3?activeTab=readme)
