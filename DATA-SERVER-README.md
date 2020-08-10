@@ -9,3 +9,6 @@
 7. [process_env](https://nodejs.org/dist/latest-v8.x/docs/api/process.html#process_process_env)
 8. [typicode-lowdb](https://github.com/typicode/lowdb)
 9. [Using Express middleware](http://expressjs.com/en/guide/using-middleware.html#using-middleware)
+10. [npm cors](https://www.npmjs.com/package/cors)
+11. [CORS mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+12. [Express Tutorial Part 4: Routes and controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
