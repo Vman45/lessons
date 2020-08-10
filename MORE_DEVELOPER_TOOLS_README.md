@@ -14,13 +14,13 @@
 ## npm packages
 
 1. Bring require to the browser [Browserify](https://www.npmjs.com/package/browserify)
-1. [Colors](https://www.npmjs.com/package/colors)
-1. [Chalk](https://www.npmjs.com/package/chalk)
-1. [Typescript](https://www.npmjs.com/package/typescript)
-1. [Eslint](https://www.npmjs.com/package/eslint)
-1. [jquery](https://www.npmjs.com/package/jquery)
-1. [Webpack](https://www.npmjs.com/package/webpack)
-1. []()
+2. [Colors](https://www.npmjs.com/package/colors)
+3. [Chalk](https://www.npmjs.com/package/chalk)
+4. [Typescript](https://www.npmjs.com/package/typescript)
+5. [Eslint](https://www.npmjs.com/package/eslint)
+6. [jquery](https://www.npmjs.com/package/jquery)
+7. [Webpack](https://www.npmjs.com/package/webpack)
+[]()
 
 ## Build native app
 where you can write one code and run it across all the platforms (ios, android )
@@ -49,30 +49,32 @@ where you can write one code and run it across all the platforms (ios, android )
 ## Other JavaScript frameworks
 
 1. [Angular js](https://angularjs.org/)
-1. [Vue js](https://vuejs.org/)
-1. [Ember js](https://emberjs.com/)
-1. [BackBone js](https://backbonejs.org/)
-1. Test your JS code [Jest js](https://jestjs.io/docs/en/using-matchers)
-1. Compress your code [Js Compress](https://jscompress.com/)
+2. [Vue js](https://vuejs.org/)
+3. [Ember js](https://emberjs.com/)
+4. [BackBone js](https://backbonejs.org/)
+5. Test your JS code [Jest js](https://jestjs.io/docs/en/using-matchers)
+6. Compress your code [Js Compress](https://jscompress.com/)
 
 ## JavaScript tools
 
 1. [Electron js](https://www.electronjs.org/)
-1. [Webpack](https://webpack.js.org/)
-1. [EsLint](https://eslint.org/)
-1. [Yarn package](https://yarnpkg.com/)
-1. [Jshint](https://jshint.com/)
+2. [Webpack](https://webpack.js.org/)
+3. [EsLint](https://eslint.org/)
+4. [Yarn package](https://yarnpkg.com/)
+5. [Jshint](https://jshint.com/)
 
 ## Big companies 
 
 1. [Google developers](https://developers.google.com/)
-1. [AWS aka Amazon Web Services ](https://aws.amazon.com/developer/)
-1. [Apple developers](https://developer.apple.com/)
-1. [Facebook developers](https://developers.facebook.com/)
+2. [AWS aka Amazon Web Services ](https://aws.amazon.com/developer/)
+3. [Apple developers](https://developer.apple.com/)
+4. [Facebook developers](https://developers.facebook.com/)
 --------------------------------------------------------------------------------
 
 ## GitHub Gist
 learn, share, and work together 
 [Gist](https://gist.github.com/)
+
+[writing-an-awesome-github-readme](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)
 
 Happy coding 😎
