@@ -13,10 +13,11 @@ all about MongoDB shell
 
 ### To Show all Collections  `show collections`
 
-### Adding new Row `db.users.insert({name: 'Ali',age: 22,hopis: ['dance', 'sleep'],date: Date()})`
+### Adding new Row 
+```db.users.insert({name: 'Ali',age: 22,hopis: ['dance', 'sleep'],date: Date()})```
 
 ### Insert Multiple Rows
-´db.posts.insertMany([
+```db.posts.insertMany([
   {
     title: 'Post Two',
     body: 'Body of post two',
@@ -35,7 +36,7 @@ all about MongoDB shell
     category: 'Entertainment',
     date: Date()
   }
-])
+])```
 Get All Rows
 db.posts.find()
 Get All Rows Formatted
