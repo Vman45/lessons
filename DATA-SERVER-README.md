@@ -13,3 +13,7 @@
 11. [CORS mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 12. [Express Tutorial Part 4: Routes and controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 13. [http-error codes](https://www.npmjs.com/package/http-errors)
+14. [nosql-vs-sql](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+15. [install-mongodb-on-ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+16. [install-mongodb-on-os-x](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+17. [video: SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
