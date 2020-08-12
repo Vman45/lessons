@@ -17,26 +17,7 @@ all about MongoDB shell
 ```db.users.insert({name: 'Ali',age: 22,hopis: ['dance', 'sleep'],date: Date()})```
 
 ### Insert Multiple Rows
-```db.posts.insertMany([
-  {
-    title: 'Post Two',
-    body: 'Body of post two',
-    category: 'Technology',
-    date: Date()
-  },
-  {
-    title: 'Post Three',
-    body: 'Body of post three',
-    category: 'News',
-    date: Date()
-  },
-  {
-    title: 'Post Four',
-    body: 'Body of post three',
-    category: 'Entertainment',
-    date: Date()
-  }
-])```
+`db.posts.insertMany([ { title: 'Post Two', body: 'Body of post two', category: 'Technology', date: Date() }, { title: 'Post Three', body: 'Body of post three', category: 'News', date: Date() }, { title: 'Post Four', body: 'Body of post three', category: 'Entertainment', date: Date() } ])`
 Get All Rows
 db.posts.find()
 Get All Rows Formatted
