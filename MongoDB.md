@@ -1,31 +1,22 @@
 # MongoDB 
 all about MongoDB shell 
 
-## Show All Databases `show dbs`
-Show Current Database
-db
-Create Or Switch Database
-use acme
-Drop
-db.dropDatabase()
-Create Collection
-db.createCollection('posts')
-Show Collections
-show collections
-Insert Row
-db.posts.insert({
-  title: 'Post One',
-  body: 'Body of post one',
-  category: 'News',
-  tags: ['news', 'events'],
-  user: {
-    name: 'John Doe',
-    status: 'author'
-  },
-  date: Date()
-})
-Insert Multiple Rows
-db.posts.insertMany([
+### To show All Databases that you have `show dbs`
+
+### Which Database Currently you are using  `db`
+
+### Create new DB Or Switch DB `use <Your DB name>`
+
+### Drop DB  `db.dropDatabase()`
+
+### Create Collection `db.createCollection('<Collection name>')`
+
+### To Show all Collections  `show collections`
+
+### Adding new Row `db.users.insert({name: 'Ali',age: 22,hopis: ['dance', 'sleep'],date: Date()})`
+
+### Insert Multiple Rows
+´db.posts.insertMany([
   {
     title: 'Post Two',
     body: 'Body of post two',
@@ -59,14 +50,7 @@ db.posts.find().sort({ title: -1 }).pretty()
 Count Rows
 db.posts.find().count()
 db.posts.find({ category: 'news' }).count()
-Limit Rows
-db.posts.find().limit(2).pretty()
-Chaining
-db.posts.find().limit(2).sort({ title: 1 }).pretty()
-Foreach
-db.posts.find().forEach(function(doc) {
-  print("Blog Post: " + doc.title)
-})
+
 Find One Row
 db.posts.findOne({ category: 'News' })
 Find Specific Fields
@@ -92,13 +76,7 @@ db.posts.update({ title: 'Post Two' },
     category: 'Technology'
   }
 })
-Increment Field ($inc)
-db.posts.update({ title: 'Post Two' },
-{
-  $inc: {
-    likes: 5
-  }
-})
+
 Rename Field
 db.posts.update({ title: 'Post Two' },
 {
