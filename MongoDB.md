@@ -1,4 +1,5 @@
 # Database Basics
+[MongoDB basics commands](https://github.com/FBw-26/live-coding/blob/master/aug/13-08/index.js)
 
 ## mongo | SQL
 
