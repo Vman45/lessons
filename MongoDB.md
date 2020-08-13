@@ -44,6 +44,7 @@ An id / key uniquely identifies a record
 Difference III: Mongo implicitly provides unique ids
 
 ## CRUD: Four primary data operations
+CRUD aka Creat Retrieve Update Delete
 
 #### Create: Inserting multiple rows / documents:
 
