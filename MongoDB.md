@@ -55,7 +55,7 @@ CRUD aka Creat Retrieve Update Delete
 > mongo:
 > `db.<collection>.insertMany([{ <document 1> }, { <document 2> }, <...>]);`
 
-#### Retrieve: Querying the table / collection by criteria:
+#### Retrieve: Querying the table / collection:
 
 > SQL:
 > `SELECT * from <table> WHERE <criteria>`
