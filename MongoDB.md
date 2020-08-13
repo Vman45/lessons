@@ -10,19 +10,20 @@
 
 A place to keep records
 
-> Creating a collection in mongo: `db.createCollection();`, `show collections`
-
 > Creating a table in SQL:
 > `CREATE TABLE <table name> (<column definitions>);`, `SHOW TABLES;`
+
+> Creating a collection in mongo: `db.createCollection();`, `show collections`
+
 > Difference I: SQL requires structure, `DESCRIBE <table name>`
 
 ## Row | Document
 
 A single record in a collection/table
 
-> Inserting a document in mongo: `db.<collection>.insertOne(<document>);`
-
 > Inserting a row in mySQL: `INSERT INTO <table name> VALUES (<values>);`
+
+> Inserting a document in mongo: `db.<collection>.insertOne(<document>);`
 
 > Difference II: Mongo implicitly creates collections with `.insertOne()`
 
@@ -30,9 +31,9 @@ A single record in a collection/table
 
 A value in a record
 
-> Showing all documents in mongo: `db.<collection>.find({})`
-
 > Showing all rows of a table in SQL: `SELECT * from <table name>`
+
+> Showing all documents in mongo: `db.<collection>.find({})`
 
 ## Key | Id
 
@@ -48,33 +49,32 @@ CRUD aka Creat Retrieve Update Delete
 
 #### Create: Inserting multiple rows / documents:
 
-> mongo:
-> `db.<collection>.insertMany([{ <document 1> }, { <document 2> }, <...>]);`
-
 > SQL:
 > `INSERT INTO <table> VALUES (<row 1>), (<row 2>), <...>;`
 
-#### Retrieve: Querying the table / collection by criteria:
-
 > mongo:
-> `db.<collection>.find({ <field name>: { criteria } });`
+> `db.<collection>.insertMany([{ <document 1> }, { <document 2> }, <...>]);`
+
+#### Retrieve: Querying the table / collection by criteria:
 
 > SQL:
 > `SELECT * from <table> WHERE <criteria>`
 
-#### Update: Updating a row / document:
-
 > mongo:
-> `db.<collection>.updateOne({ <criteria>, {$set: <values> });`
+> `db.<collection>.find({ <field name>: { criteria } });`
+
+#### Update: Updating a row / document:
 
 > SQL:
 > `UPDATE <table> SET <values> WHERE <criteria>;`
 
-#### Delete: Deleting a row / document:
-
 > mongo:
-> `db.<collection>.deleteOne({ <criteria> });`
+> `db.<collection>.updateOne({ <criteria>, {$set: <values> });`
+
+#### Delete: Deleting a row / document:
 
 > SQL:
 > `DELETE FROM <table> WHERE <criteria>;`
-`
+
+> mongo:
+> `db.<collection>.deleteOne({ <criteria> });`
