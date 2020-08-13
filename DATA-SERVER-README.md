@@ -17,3 +17,4 @@
 15. [install-mongodb-on-ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 16. [install-mongodb-on-os-x](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 17. [video: SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+18. [how does Ascending sort? How does Descending sort?](https://www.kb.blackbaud.co.uk/articles/Article/117098)
